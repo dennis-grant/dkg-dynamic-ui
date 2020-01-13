@@ -1,0 +1,21 @@
+.list-control {
+	border: solid 1px #00f;
+	overflow: scroll;
+}
+
+.list-control .list-control-entry {
+	width: 100%;
+	background-color: #ffffff;
+	border-bottom: solid 1px #F0F0F0;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.list-control .highlighted-entry {
+	background-color: #F4F7FC;
+}
+
+.list-control .selected-entry {
+	background-color: #B3D7E3;
+	color: #333333;
+}

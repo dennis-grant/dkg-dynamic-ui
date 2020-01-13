@@ -1,0 +1,25 @@
+.action-control {
+	cursor: pointer;
+	color: #0000ff;
+	font-size: 12px;
+	margin-right: 5px;
+	padding: 2px;
+}
+
+.action-control .icon, .action-control .label {
+	float: left;
+}
+
+.action-control .label {
+	padding-top: 2px;
+	margin-left: 3px;
+}
+
+.simple-action-list-control {
+	border: solid 0px #00f;
+}
+
+.simple-action-list-control .simple-list-control-entry {
+	float: left;
+	border: solid 0px #0f0;
+}

@@ -1,0 +1,26 @@
+.panel-control {
+	border: solid 1px #888888;
+}
+
+.panel-control > .header {
+	vertical-align: middle;
+	color: #666666;
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	height: 26px;
+	width: 100%;
+	border-top: solid 1px #B3CBDC;
+	background-color: #DFE9F0; 
+	background: url(../images/widgetheader.gif) repeat-x scroll left top;
+}
+
+.panel-control > .header .icon, .panel-control > .header .title {
+	float: left;
+	margin-left: 5px;
+	margin-top: 3px;
+}
+
+.panel-control > .content {
+	clear: both;
+}
